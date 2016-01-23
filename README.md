@@ -19,6 +19,8 @@
   添加简单加法源代码和Notice.md(使用set容器)<br>
   添加三数从大到小排序源代码和Notice.md(使用multiset)<br>
   添加身份证升级源代码和Notice.md<br>
-<br>
-  添加快乐司机源代码和Notice.md(使用sort)
-  *补添加未名湖畔的烦恼源代码*
+  添加快乐司机源代码和Notice.md(使用sort)<br>
+  *补添加未名湖畔的烦恼源代码*<br>
+
+2016.01.23  更新<br>
+  添加oj706源代码和README.md<br>
