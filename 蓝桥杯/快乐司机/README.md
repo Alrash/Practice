@@ -24,5 +24,5 @@
 	获得单位物品价值，从大到小排序。
 
 ##问题陷阱
-	若要使用sqort，因为cmp(const void *a, const void *b)的返回值为int型，而单位价值为double，对于0.52和0.84无法排序。
+	若要使用sqort，因为cmp(const void *a, const void *b)的返回值为int型，而单位价值为double，对于0.52和0.84无法排序。解决方法，因为精确度问题(double)，所以return的值乘以1000，缺点--比较不足，还易越界。
 	使用vector<结构体名>时，需对operator<进行重载。
