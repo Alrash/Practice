@@ -24,3 +24,6 @@
 
 2016.01.23  更新<br>
   添加oj706源代码和README.md<br>
+
+2016.02.19 更新<br>
+  添加other/6th folder和部分源码
