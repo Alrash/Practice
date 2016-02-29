@@ -34,3 +34,8 @@
 
 2016.02.25  更新<br>
   添加oj /Is bigger Smaller?
+
+2016.02.28  更新<br>
+  添加oj / 10069-Distinct Subsequences源码及README.md<br>
+  重命名oj下文件夹（题号加题目名称）
+
