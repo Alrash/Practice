@@ -31,7 +31,6 @@
 2016.02.22  更新<br>
   添加蓝桥杯/{连号区间数，区间K大数}源码，未添加两者的说明
 
-
 2016.02.25  更新<br>
   添加oj /Is bigger Smaller?
 
@@ -39,3 +38,5 @@
   添加oj / 10069-Distinct Subsequences源码及README.md<br>
   重命名oj下文件夹（题号加题目名称）
 
+2016.03.02  更新<br>
+  添加蓝桥杯 / 李白打酒源码及README.md
