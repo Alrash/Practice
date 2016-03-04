@@ -46,4 +46,5 @@
   修正oj/116-Unidirectional TSP.cpp源码，但是仍有错误
 
 2016.03.04  更新<br>
-  添加oj/10003-Cutting Sticks文件夹，但是源码非自己
+  添加oj/10003-Cutting Sticks文件夹，但是源码非自己<br>
+  添加蓝桥杯/六角填数文件夹
