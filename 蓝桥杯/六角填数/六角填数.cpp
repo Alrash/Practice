@@ -40,7 +40,7 @@ int main()
 			break;
 		}
 
-	} while (next_permutation(a + 1, a + 11));
+	} while (next_permutation(a + 2, a + 11));
 
 	return 0;
 }
